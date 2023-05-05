@@ -12,4 +12,7 @@ Open the index.html file.
 ## Usage
 
 Click the "Generate Password" button and enter a desired password length (8-128). Then a random password will show up.
+
+Link to Password Generator: http://127.0.0.1:5502/index.html
+
 ![127 0 0 1_5502_index html](https://user-images.githubusercontent.com/130262452/236373602-6c63c579-0b88-4138-9439-cac71d3a018d.png)
